@@ -1,0 +1,4 @@
+west:
+  command: /home/md/zephyrproject/.venv/bin/west build -d disco_l475_iot1
+  topdir: /home/md/zephyrproject
+  version: 1.4.0
